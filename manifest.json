@@ -1,0 +1,668 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Jay/source/repos/UptimeRobot/UptimeRobot.API.Docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Converters.MonitorKeywordTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Converters.MonitorKeywordTypeConverter.html",
+          "hash": "icADYdYBdN1Wk9cJgW7VpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Converters.MonitorSubTypeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Converters.MonitorSubTypeConverter.html",
+          "hash": "tleqYpIP1KeIAYYvYIHhHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Converters.UnixDateTimeConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Converters.UnixDateTimeConverter.html",
+          "hash": "/KE4ZIyZWj16EiEznJ6SRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Converters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Converters.html",
+          "hash": "gqVgC++rArm7jmX8BPg34Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Methods.AccountDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Methods.AccountDetails.html",
+          "hash": "AKsLxjqFTWU9Y34X8XM0wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Methods.Monitors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Methods.Monitors.html",
+          "hash": "IULZLRoHFN+5QpsiDWuCEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Methods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Methods.html",
+          "hash": "lymTe6vlwkWWhfPjqN5Yow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Account.Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Account.Account.html",
+          "hash": "LD8+ut33ye6eo95CpQL7Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Account.AccountResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Account.AccountResponse.html",
+          "hash": "2a5owZE0crry9wZbWFze+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Account.html",
+          "hash": "2H0Gew1HB7VlUVboAoxJhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Exceptions.UptimeRobotPropertyNotInitilizedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Exceptions.UptimeRobotPropertyNotInitilizedException.html",
+          "hash": "365eZfhHNdV+otrRKmy+aA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Exceptions.UptimeRobotRequestFailedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Exceptions.UptimeRobotRequestFailedException.html",
+          "hash": "o3CJyxNJzePjTXbKPFP24A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Exceptions.html",
+          "hash": "Z1FolRnEtkFo/axRCVF6Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.IParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.IParameters.html",
+          "hash": "BO47h/jy7Nd0Y4uv52WHiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.ISerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.ISerializable.html",
+          "hash": "DNQWQniUupRqF1U3PRHMiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.LogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.LogType.html",
+          "hash": "u6xSW9qAwIkMMwMfM1QVxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.MethodClassBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.MethodClassBase.html",
+          "hash": "6hSRNec9+HSxRT0rceAamQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponseError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponseError.html",
+          "hash": "coRJkHbgX5GtJSWjOo0mmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponseGeneric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponseGeneric.html",
+          "hash": "rTokRBvAictuFwNZnAZFWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponsePaginated.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.ResponsePaginated.html",
+          "hash": "EvLzA26gTE0IQIL0O2/xzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.Response.html",
+          "hash": "R1XFYeRKcTuMSEIIF+Vl/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.ResponseFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.ResponseFormat.html",
+          "hash": "0u6bxtvt9f3pdaae8aaRtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.Error.html",
+          "hash": "+qJevjJ+WFWSp3KXyBIfuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.Pagination.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.Pagination.html",
+          "hash": "E7Zq9d2gr2Mz/yi4G9XYEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.SubTypes.html",
+          "hash": "sZxmbB5hxDchQeirm5gnzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Generic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Generic.html",
+          "hash": "qdIde6kq0CcYuB8OvZSkTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.Log.html",
+          "hash": "npJDPSvkrIxEmuhAQGPZBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.Monitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.Monitor.html",
+          "hash": "6ciTqywvGnnHIiGPA8QhEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorKeywordType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorKeywordType.html",
+          "hash": "HsIWVQaMq/GSAcQ2yE0VHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorResponse.html",
+          "hash": "uUzOPUjt6PPy+i9Z7R5xqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorStatus.html",
+          "hash": "o4+pSpmhFNX3yQ6ojKhEAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorSubType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorSubType.html",
+          "hash": "OvNRAu4GWeFv9ET+BxY5ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.MonitorType.html",
+          "hash": "7d59OYVfru8zuNmQEzCUEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.MonitorLogsOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.MonitorLogsOptions.html",
+          "hash": "kJr00p9y1u6FmF8ZR4nYhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.MonitorOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.MonitorOptions.html",
+          "hash": "gniSbI8QwZzk1WsJixD2lQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.Options.html",
+          "hash": "DMh+aRr++/NLtZ0C0U04cQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Objects.Monitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Objects.Monitor.html",
+          "hash": "/d+5lW/WIcC2aJh8XJ677Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.UptimeRobotApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.UptimeRobotApi.html",
+          "hash": "EbV/Y3eOPTYd0t5UIM26nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.UtilsMisc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.UtilsMisc.html",
+          "hash": "UoeM7JSCYWtruTcqoIUsQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.Methods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.Methods.html",
+          "hash": "Nw2uaHvcOADWAs5QKNobTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.Parameters.html",
+          "hash": "xdmCEIbBZeGF01ESoO0VlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.UtilsReference.html",
+          "hash": "UzUrMmIB2NPRt9cBfgnEuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.UtilsWeb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.UtilsWeb.html",
+          "hash": "5hzeS3lz9qwLPd/jkg3NGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.Utils.html",
+          "hash": "HDXYtOB+NNbobE35oXpu2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UptimeRobot.Api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UptimeRobot.Api.html",
+          "hash": "OB16J1Dj+vukI/jrgCf6rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "HbJNtQzf4vzJZKwDyUu4DA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "yIsmfg/a5PPk1z4W982a0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "ktap9t5H9O5n0gqTejA/nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "a0mkxoPzhPYSJEHtY6+dSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 45,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
